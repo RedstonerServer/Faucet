@@ -1,0 +1,10 @@
+package main.java.com.redstoner.misc;
+
+/** @author Pepich */
+public enum CommandHolder
+{
+	Stream,
+	File,
+	String,
+	None
+}

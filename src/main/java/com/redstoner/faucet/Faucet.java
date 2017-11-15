@@ -64,4 +64,9 @@ public class Faucet extends JavaPlugin
 	{
 		
 	}
+
+	public ClassLoader getParentLoader()
+	{
+		return parentLoader;
+	}
 }

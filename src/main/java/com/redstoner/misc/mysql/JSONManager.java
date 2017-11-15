@@ -1,4 +1,10 @@
-package main.java.com.redstoner.misc.mysql;
+package com.redstoner.misc.mysql;
+
+import com.redstoner.faucet.Faucet;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -12,12 +18,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-import main.java.com.redstoner.faucet.Faucet;
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
-import org.json.simple.parser.ParseException;
 
 public class JSONManager
 {

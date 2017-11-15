@@ -1,6 +1,6 @@
-package main.java.com.redstoner.misc.mysql.types.number;
+package com.redstoner.misc.mysql.types.number;
 
-import main.java.com.redstoner.misc.mysql.types.MysqlType;
+import com.redstoner.misc.mysql.types.MysqlType;
 
 public class Decimal extends MysqlType
 {

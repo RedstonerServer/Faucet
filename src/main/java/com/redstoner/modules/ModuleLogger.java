@@ -1,4 +1,4 @@
-package main.java.com.redstoner.modules;
+package com.redstoner.modules;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.CommandSender;

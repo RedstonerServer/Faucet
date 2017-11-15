@@ -1,29 +1,29 @@
-package main.java.com.redstoner.misc.mysql.types;
+package com.redstoner.misc.mysql.types;
 
-import main.java.com.redstoner.misc.mysql.types.date.Date;
-import main.java.com.redstoner.misc.mysql.types.date.DateTime;
-import main.java.com.redstoner.misc.mysql.types.date.Time;
-import main.java.com.redstoner.misc.mysql.types.date.TimeStamp;
-import main.java.com.redstoner.misc.mysql.types.date.Year;
-import main.java.com.redstoner.misc.mysql.types.number.Double;
-import main.java.com.redstoner.misc.mysql.types.number.Float;
-import main.java.com.redstoner.misc.mysql.types.number.Int;
-import main.java.com.redstoner.misc.mysql.types.number.MediumInt;
-import main.java.com.redstoner.misc.mysql.types.number.SmallInt;
-import main.java.com.redstoner.misc.mysql.types.text.Blob;
-import main.java.com.redstoner.misc.mysql.types.text.Char;
-import main.java.com.redstoner.misc.mysql.types.text.Enum;
-import main.java.com.redstoner.misc.mysql.types.text.LongBlob;
-import main.java.com.redstoner.misc.mysql.types.text.LongText;
-import main.java.com.redstoner.misc.mysql.types.text.MediumBlob;
-import main.java.com.redstoner.misc.mysql.types.text.MediumText;
-import main.java.com.redstoner.misc.mysql.types.text.Set;
-import main.java.com.redstoner.misc.mysql.types.text.TinyText;
-import main.java.com.redstoner.misc.mysql.types.text.VarChar;
-import main.java.com.redstoner.misc.mysql.types.number.BigInt;
-import main.java.com.redstoner.misc.mysql.types.number.Decimal;
-import main.java.com.redstoner.misc.mysql.types.number.TinyInt;
-import main.java.com.redstoner.misc.mysql.types.text.Text;
+import com.redstoner.misc.mysql.types.date.Date;
+import com.redstoner.misc.mysql.types.date.DateTime;
+import com.redstoner.misc.mysql.types.date.Time;
+import com.redstoner.misc.mysql.types.date.TimeStamp;
+import com.redstoner.misc.mysql.types.date.Year;
+import com.redstoner.misc.mysql.types.number.Double;
+import com.redstoner.misc.mysql.types.number.Float;
+import com.redstoner.misc.mysql.types.number.Int;
+import com.redstoner.misc.mysql.types.number.MediumInt;
+import com.redstoner.misc.mysql.types.number.SmallInt;
+import com.redstoner.misc.mysql.types.text.Blob;
+import com.redstoner.misc.mysql.types.text.Char;
+import com.redstoner.misc.mysql.types.text.Enum;
+import com.redstoner.misc.mysql.types.text.LongBlob;
+import com.redstoner.misc.mysql.types.text.LongText;
+import com.redstoner.misc.mysql.types.text.MediumBlob;
+import com.redstoner.misc.mysql.types.text.MediumText;
+import com.redstoner.misc.mysql.types.text.Set;
+import com.redstoner.misc.mysql.types.text.TinyText;
+import com.redstoner.misc.mysql.types.text.VarChar;
+import com.redstoner.misc.mysql.types.number.BigInt;
+import com.redstoner.misc.mysql.types.number.Decimal;
+import com.redstoner.misc.mysql.types.number.TinyInt;
+import com.redstoner.misc.mysql.types.text.Text;
 
 public abstract class MysqlType
 {

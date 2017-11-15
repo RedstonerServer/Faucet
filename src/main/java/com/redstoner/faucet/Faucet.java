@@ -1,15 +1,13 @@
-package main.java.com.redstoner.faucet;
-
-import java.util.HashMap;
-
-import main.java.com.redstoner.annotations.Version;
-import org.bukkit.plugin.java.JavaPlugin;
+package com.redstoner.faucet;
 
 import com.nemez.cmdmgr.Command;
-import main.java.com.redstoner.misc.mysql.MysqlHandler;
-import main.java.com.redstoner.modules.Module;
-
+import com.redstoner.annotations.Version;
+import com.redstoner.misc.mysql.MysqlHandler;
+import com.redstoner.modules.Module;
 import net.nemez.chatapi.ChatAPI;
+import org.bukkit.plugin.java.JavaPlugin;
+
+import java.util.HashMap;
 
 /** Main class. Duh.
  * 

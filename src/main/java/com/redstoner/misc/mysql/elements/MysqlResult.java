@@ -1,4 +1,4 @@
-package main.java.com.redstoner.misc.mysql.elements;
+package com.redstoner.misc.mysql.elements;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

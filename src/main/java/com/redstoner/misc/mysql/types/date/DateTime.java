@@ -1,6 +1,6 @@
-package main.java.com.redstoner.misc.mysql.types.date;
+package com.redstoner.misc.mysql.types.date;
 
-import main.java.com.redstoner.misc.mysql.types.MysqlType;
+import com.redstoner.misc.mysql.types.MysqlType;
 
 public class DateTime extends MysqlType {
 	@Override

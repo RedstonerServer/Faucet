@@ -1,6 +1,6 @@
-package main.java.com.redstoner.misc.mysql.types.text;
+package com.redstoner.misc.mysql.types.text;
 
-import main.java.com.redstoner.misc.mysql.types.MysqlType;
+import com.redstoner.misc.mysql.types.MysqlType;
 
 public class Text extends MysqlType
 {

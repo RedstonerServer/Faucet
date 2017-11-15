@@ -1,4 +1,10 @@
-package main.java.com.redstoner.misc.mysql;
+package com.redstoner.misc.mysql;
+
+import com.redstoner.faucet.Faucet;
+import com.redstoner.misc.mysql.elements.MysqlDatabase;
+import org.bukkit.Bukkit;
+import org.bukkit.ChatColor;
+import org.json.simple.parser.ParseException;
 
 import java.io.File;
 import java.io.IOException;
@@ -12,13 +18,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-import main.java.com.redstoner.faucet.Faucet;
-import org.bukkit.Bukkit;
-import org.bukkit.ChatColor;
-import org.json.simple.parser.ParseException;
-
-import main.java.com.redstoner.misc.mysql.elements.MysqlDatabase;
 
 public class MysqlHandler
 {

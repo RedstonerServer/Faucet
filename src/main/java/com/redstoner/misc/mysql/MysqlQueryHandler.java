@@ -1,4 +1,4 @@
-package main.java.com.redstoner.misc.mysql;
+package com.redstoner.misc.mysql;
 
 import java.sql.CallableStatement;
 import java.sql.Connection;

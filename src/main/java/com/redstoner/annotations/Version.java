@@ -1,4 +1,4 @@
-package main.java.com.redstoner.annotations;
+package com.redstoner.annotations;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

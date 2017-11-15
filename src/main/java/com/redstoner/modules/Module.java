@@ -1,7 +1,7 @@
-package main.java.com.redstoner.modules;
+package com.redstoner.modules;
 
-import main.java.com.redstoner.annotations.Version;
-import main.java.com.redstoner.faucet.Faucet;
+import com.redstoner.annotations.Version;
+import com.redstoner.faucet.Faucet;
 
 /** Interface for the Module class. Modules must always have an empty constructor to be invoked by the ModuleLoader.
  * 

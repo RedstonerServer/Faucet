@@ -1,4 +1,4 @@
-package main.java.com.redstoner.misc.mysql.elements;
+package com.redstoner.misc.mysql.elements;
 
 public class MysqlConstraint {
 	private String fieldName, value;

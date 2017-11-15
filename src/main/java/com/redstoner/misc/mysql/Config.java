@@ -1,4 +1,4 @@
-package main.java.com.redstoner.misc.mysql;
+package com.redstoner.misc.mysql;
 
 import java.io.File;
 import java.io.FileReader;
@@ -11,13 +11,13 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
-import main.java.com.redstoner.faucet.Faucet;
+import com.redstoner.faucet.Faucet;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-import main.java.com.redstoner.exceptions.NonSaveableConfigException;
+import com.redstoner.exceptions.NonSaveableConfigException;
 
 public class Config
 {

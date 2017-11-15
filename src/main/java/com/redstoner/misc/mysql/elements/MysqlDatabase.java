@@ -1,4 +1,4 @@
-package main.java.com.redstoner.misc.mysql.elements;
+package com.redstoner.misc.mysql.elements;
 
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;
@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import main.java.com.redstoner.misc.mysql.MysqlQueryHandler;
+import com.redstoner.misc.mysql.MysqlQueryHandler;
 
 public class MysqlDatabase {
 	private Connection connection;

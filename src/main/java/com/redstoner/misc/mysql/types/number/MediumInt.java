@@ -1,4 +1,4 @@
-package main.java.com.redstoner.misc.mysql.types.number;
+package com.redstoner.misc.mysql.types.number;
 
 public class MediumInt extends Int {
 	public MediumInt(int maxSize) {

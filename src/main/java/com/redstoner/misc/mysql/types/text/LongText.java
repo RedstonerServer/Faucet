@@ -1,4 +1,4 @@
-package main.java.com.redstoner.misc.mysql.types.text;
+package com.redstoner.misc.mysql.types.text;
 
 public class LongText extends Text {
 	@Override

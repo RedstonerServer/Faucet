@@ -1,6 +1,6 @@
-package main.java.com.redstoner.misc.mysql.elements;
+package com.redstoner.misc.mysql.elements;
 
-import main.java.com.redstoner.misc.mysql.types.MysqlType;
+import com.redstoner.misc.mysql.types.MysqlType;
 
 public class MysqlField {
 	private String name;

@@ -33,7 +33,6 @@ public class Faucet extends JavaPlugin
 	{
 		plugin = this;
 		ChatAPI.initialize(this);
-		// Configger.init();
 		MysqlHandler.init();
 	}
 	

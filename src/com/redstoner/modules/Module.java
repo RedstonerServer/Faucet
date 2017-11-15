@@ -32,14 +32,6 @@ public interface Module
 	public default void onDisable()
 	{}
 	
-	/** Gets called on registration of the module, when this option is selected for command registration
-	 * 
-	 * @return The String used for the CommandManager to register the commands. */
-	public default String getCommandString()
-	{
-		return null;
-	}
-	
 	/** This method gets run the very first time a module gets loaded. You can use this to set up file structures or background data. */
 	public default void firstLoad()
 	{}

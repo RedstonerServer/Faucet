@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/Pepich/Desktop/redstoner/spigot.jar"/>
+	<classpathentry kind="lib" path="/Users/Pepich/Desktop/redstoner/plugins/vault.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ChatAPI"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ChestAPI"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/CommandManager"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

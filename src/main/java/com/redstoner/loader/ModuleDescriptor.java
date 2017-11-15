@@ -54,6 +54,7 @@ public final class ModuleDescriptor
 				return version;
 			}
 		});
+		yamlObjectMapper.registerModule(module);
 	}
 
 	public static ModuleDescriptor load(String content) throws IOException

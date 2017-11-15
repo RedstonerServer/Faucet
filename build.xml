@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="makejar" default="makejar" basedir=".">
+  <target name ="makejar" description="Create a jar for the Faucet project">
+    <jar jarfile="Faucet.jar" includes="*.class" basedir="bin"/>
+  	<echo>"This is a test"</echo>
+  </target>
+</project>

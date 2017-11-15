@@ -1,0 +1,5 @@
+name: ExampleModule
+version: 0.1
+dependencies: [References, To, Modules]
+soft-dependencies: [References, To, Modules]
+main: com.redstoner.modules.something.examplemoduleclasses.ExampleModule
